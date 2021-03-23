@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "sdkVersion": "36.0.0",
+    "name": "ReactKartikey",
+    "slug": "ReactKartikey",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#dfff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "net.food.confusion.ReactKartikey"
+    },
+    "android": {
+      "package": "net.food.confusion.ReactKartikey"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
